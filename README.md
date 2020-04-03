@@ -25,4 +25,6 @@ and output X2, I2 to input X2 and output X1 and I1 to input X1 and ouput X.
 
 This is how we generate the images and learn P(X|C).
 
-This idea is coded on Google Colab using pytorch framework. Any ideas and collaborations to take this idea ahead are welcomed.
+This idea is coded on Google Colab using pytorch framework. The network produced back the desired images.
+
+Any ideas and collaborations to take this idea ahead are welcomed.
